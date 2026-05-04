@@ -484,6 +484,7 @@ body:has(#theme-toggle:checked) label {
 	color: var(--text);
 }
 
+
 body:has(#theme-toggle:checked) .theme-toggle {
 	background: linear-gradient(90deg, #1a3159, #254b82);
 }
